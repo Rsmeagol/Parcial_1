@@ -26,8 +26,8 @@ cuenta1.CobrarMantenimiento(1000);
 
 
 
-
-
+Console.WriteLine("Este es un mensaje de prueba");
+Console.WriteLine("Este es un mensaje de prueba 2");
 
 public abstract class Cuenta
 {
